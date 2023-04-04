@@ -6,6 +6,8 @@ Modular Code,
 React BootStrap,
 Responsive
 
+Features:
+Search bar, Add product to cart, Go to Checkout page, View Products from Api, Increment/decrement product count in Cart 
 
 Hooks Used:
 UseContext,
