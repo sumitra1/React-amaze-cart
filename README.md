@@ -2,7 +2,10 @@
 
 Concept Used:
 State Management,
-Modular Code
+Modular Code,
+React BootStrap,
+Responsive
+
 
 Hooks Used:
 UseContext,
